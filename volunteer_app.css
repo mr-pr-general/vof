@@ -1,0 +1,25 @@
+
+/*path.link {*/
+/*    fill: none;*/
+/*    !*stroke: #666;*!*/
+/*    !*stroke-width: 1.5px;*!*/
+/*}*/
+
+/*circle {*/
+/*    !*fill: #ccc;*!*/
+/*    stroke: #fff;*/
+/*    stroke: black;*/
+/*    stroke-width: 1.5px;*/
+}
+
+text {
+    fill: #000;
+    font: 10px sans-serif;
+    pointer-events: none;
+}
+td, th {
+    padding: 1px 4px;
+}
+td {
+    border: 1px solid #333;
+}
